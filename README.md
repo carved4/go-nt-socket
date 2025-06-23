@@ -3,6 +3,9 @@
 a pure go implementation of windows sockets using native nt apis, avoiding winsock entirely.
 
 ## demo
+https://github.com/user-attachments/assets/1ab131dd-34d5-4e29-90e4-8cbefde25d5a
+
+
 
 ## credits
 
