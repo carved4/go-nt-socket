@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/1ab131dd-34d5-4e29-90e4-8cbefde25d5a
 
 this project builds upon research and techniques from various security researchers:
 - [Original NT Socket Research](https://www.x86matthew.com/view_post?id=ntsockets) by x86matthew
-- [Rust Implementation](https://github.com/Whitecat18/Rust-for-Malware-Development/tree/main/NtSockets) by [@5mukz](https://twitter.com/5mukx) (like a lot of my projects, shoutout him lol)
+- [Rust Implementation](https://github.com/Whitecat18/Rust-for-Malware-Development/tree/main/NtSockets) by [@5mukx](https://twitter.com/5mukx) (like a lot of my projects, shoutout him lol)
 - my go-native-syscall library for nt api access and access to rtl calls for heap ops
 
 ## features
